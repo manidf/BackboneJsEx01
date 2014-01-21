@@ -28,7 +28,7 @@
 
   APP.Collections.NoteCollection = Backbone.Collection.extend({
     // Reference to this collection's model.
-      model: APP.Models.NoteModel,
+      model: APP.Models.NoteModel
 
 
   });
